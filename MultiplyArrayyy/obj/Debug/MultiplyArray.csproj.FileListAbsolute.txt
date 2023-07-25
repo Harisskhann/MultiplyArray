@@ -1,0 +1,8 @@
+D:\MultiplyArrayy\MultiplyArray\bin\Debug\MultiplyArray.exe.config
+D:\MultiplyArrayy\MultiplyArray\bin\Debug\MultiplyArray.exe
+D:\MultiplyArrayy\MultiplyArray\bin\Debug\MultiplyArray.pdb
+D:\MultiplyArrayy\MultiplyArray\obj\Debug\MultiplyArray.csproj.AssemblyReference.cache
+D:\MultiplyArrayy\MultiplyArray\obj\Debug\MultiplyArray.csproj.SuggestedBindingRedirects.cache
+D:\MultiplyArrayy\MultiplyArray\obj\Debug\MultiplyArray.csproj.CoreCompileInputs.cache
+D:\MultiplyArrayy\MultiplyArray\obj\Debug\MultiplyArray.exe
+D:\MultiplyArrayy\MultiplyArray\obj\Debug\MultiplyArray.pdb
